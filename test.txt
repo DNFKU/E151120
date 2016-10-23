@@ -1,2 +1,0 @@
-the file for test.
-the line is added.
